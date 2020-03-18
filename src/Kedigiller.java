@@ -7,4 +7,8 @@ public class Kedigiller {
     public String benKimim(){
         return "Kedigiller";
     }
+	
+	public String sayHello(){
+		return "Hello";
+	}
 }
